@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "mystica:block/witchwood_log_top",
+    "side": "mystica:block/witchwood_log"
+  }
+}

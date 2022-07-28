@@ -1,0 +1,16 @@
+{
+  "item.mystica.salis_mirum": "Salis Mirum",
+  "item.mystica.starlight_rose": "Starlight Rose",
+  "item.mystica.aethril": "Aethril",
+  "item.mystica.prismatic_crystal": "Prismatic Crystals",
+
+  "itemGroup.mysticatab": "Mystica",
+
+  "block.mystica.starlight_rose": "Starlight Rose",
+  "block.mystica.aethril": "Aethril",
+  "block.mystica.prismatic_ore": "Prismatic Ore",
+  "block.mystica.witchwood_log": "Witchwood Log",
+  "block.mystica.witchwood_planks": "Witchwood Planks",
+  "block.mystica.stripped_witchwood_log": "Stripped Witchwood Log"
+
+}

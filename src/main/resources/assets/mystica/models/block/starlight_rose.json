@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "mystica:block/starlight_rose",
+    "particle": "mystica:block/starlight_rose"
+  }
+}

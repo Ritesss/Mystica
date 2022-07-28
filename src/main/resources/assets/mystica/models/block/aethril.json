@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "mystica:block/aethril",
+    "particle": "mystica:block/aethril"
+  }
+}

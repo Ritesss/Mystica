@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "mystica:witchwood_logs"
+    }
+  ],
+  "result": {
+    "item": "mystica:witchwood_planks",
+    "count": 4
+  }
+}
