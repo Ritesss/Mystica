@@ -64,6 +64,8 @@ public class Mystica
 
         ItemBlockRenderTypes.setRenderLayer(ModBlocks.AETHRIL.get(), RenderType.cutout());
         ItemBlockRenderTypes.setRenderLayer(ModBlocks.POTTED_ATHERIL.get(), RenderType.cutout());
+
+        ItemBlockRenderTypes.setRenderLayer(ModBlocks.PRISMATIC_BOTTLE.get(), RenderType.cutout());
     }
 
     @SubscribeEvent

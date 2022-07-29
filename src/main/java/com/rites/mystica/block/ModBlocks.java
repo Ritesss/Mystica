@@ -36,6 +36,9 @@ public class ModBlocks {
     public static final RegistryObject<Block> PRISMATIC_ORE = registerBlock("prismatic_ore", () -> new Block(
             BlockBehaviour.Properties.of(Material.STONE).strength(0.3f).requiresCorrectToolForDrops()), MysticaTab.MTAB);
 
+    public static final RegistryObject<Block> PRISMATIC_BOTTLE = registerBlock("prismatic_bottle", () -> new Block(
+            BlockBehaviour.Properties.of(Material.GLASS).strength(0.3f).requiresCorrectToolForDrops()), MysticaTab.MTAB);
+
     public static final RegistryObject<Block> POTTED_STARLIGHT_ROSE = registerBlockWithoutBlockItem("potted_starlight_rose", () -> new FlowerPotBlock(
             null, ModBlocks.STARLIGHT_ROSE,
             BlockBehaviour.Properties.copy(Blocks.POTTED_DANDELION).noOcclusion()));
